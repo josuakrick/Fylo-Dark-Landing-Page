@@ -1,0 +1,20 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.container img {
+  -ms-flex-preferred-size: 1;
+      flex-basis: 1;
+}
+
+.container ul {
+  -ms-flex-preferred-size: 2;
+      flex-basis: 2;
+}
+/*# sourceMappingURL=header.css.map */

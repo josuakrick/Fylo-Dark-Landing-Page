@@ -23,7 +23,8 @@ Utilitários
 
 ## 💻 Projeto
 
-Fylo é uma landing page construída utilizando HTML5, CSS3, javaScript, Sass e sob o conceito de mobile first.
+Fylo é uma landing page construída utilizando HTML5, CSS3, javaScript, Sass e sob o conceito de mobile first. <br>
+<a href="https://josuakrick.github.io/Fylo-Dark-Landing-Page/"> Link do Projeto </a>
 
 ## 🔖 Layout
 
